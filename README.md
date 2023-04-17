@@ -1,4 +1,4 @@
-# lsc-smart-plug
+# lsc-smart-plug V1
 ##### LSC Smart Plug
 ##### VERSION: 970760.1
 ##### LSC Power Plug (2578685)
