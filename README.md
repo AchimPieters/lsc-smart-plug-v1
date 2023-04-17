@@ -5,7 +5,7 @@
 
 This device uses a BK7231N incompatible module which needs to be replaced with an ESP-02S (ESP8684 which is a ESP8266) This module can replace modules such as: CB2S, FL_M99_V1, TYWE2S, TYZS6, TW-02, WR2, WB2, WBR2, WR2E, WB2S, WA2, XT-BL02 . Besides the module, this process will require a soldering tool and moderate soldering skill.
 
-<img  style="float: right;" src="https://github.com/AchimPieters/lsc-smart-plug-v1/blob/main/image/LSC_SMART-POWER-PLUG.png" width="300">
+<img  style="float: right;" src="https://github.com/AchimPieters/lsc-smart-plug-v1/blob/main/image/LSC_SMART-POWER-PLUG.png" width="100">
 
 With the help of this Smart Plug it is possible to make devices in your home smarter. By connecting a device via this Smart Plug, you can switch the device on and off remotely. This plug fits into any European socket and can also be used as a normal socket in addition to the smart functions.
 
