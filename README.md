@@ -1,7 +1,7 @@
 # lsc-smart-plug
-LSC Smart Plug
-VERSION: 970760.1
-LSC Power Plug (2578685)
+##### LSC Smart Plug
+##### VERSION: 970760.1
+##### LSC Power Plug (2578685)
 
 
 With the help of this Smart Plug it is possible to make devices in your home smarter. By connecting a device via this Smart Plug, you can switch the device on and off remotely. This plug fits into any European socket and can also be used as a normal socket in addition to the smart functions.
