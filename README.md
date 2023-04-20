@@ -9,20 +9,20 @@ This device uses a TYWE2S (ESP8684 which is a ESP8266) <b>compatible</b> module 
 
 <img  style="float: right;" src="https://github.com/AchimPieters/lsc-smart-plug-v1/blob/main/image/LSC_SMART-POWER-PLUG.png" width="100">
 
-# Security and privacy
+### SECURITY AND PRIVACY
 Why Should I use this project? One of the most important features of the ESP HomeKit project is security. Because it is open source, you can see that no data from you is being recorded anywhere or anything like that. Of course because you program the code yourself, you can decide what happens, and not another large company that collects your data and sells it on to other companies. You are in control!
 
 https://www.studiopieters.nl/why-you-should-not-buy-a-smart-plug-from-a-discounter
 
 
-# WORKS WITH APPLE HOME BADGE
+### WORKS WITH APPLE HOME BADGE
 
 <sup>The Works with Apple Home badge can be used to visually communicate that your accessory is compatible with the Apple Home and Siri on Apple devices. If you plan to develop or manufacture a HomeKit accessory that will be distributed or sold, your company needs to be enrolled in the MFi Program.</sup> 
 
 <img  style="float: right;" src="https://github.com/AchimPieters/ESP32-SmartPlug/blob/main/images/works-with-apple-home.svg" width="150">
 
 
-# MIT LICENCE
+### MIT LICENCE
 
 <sub>Copyright © 2023 Achim Pieters | StudioPieters<sup>©</sup> | lsc-smart-plug-v1</sub>
 
@@ -32,7 +32,7 @@ https://www.studiopieters.nl/why-you-should-not-buy-a-smart-plug-from-a-discount
 
 <sub>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</sub>
 
-# APPLE HOME
+### APPLE HOME
 
 <img  style="float: right;" src="https://github.com/AchimPieters/ESP32-SmartPlug/blob/main/images/apple_logo.png" width="10"><br> <sub>HomeKit Accessory Protocol (HAP) is Apple’s proprietary protocol that enables third-party accessories in the home (e.g., lights, thermostats and door locks) and Apple products to communicate with each other. HAP supports two transports, IP and Bluetooth LE. The information provided in the HomeKit Accessory Protocol Specification (Non-Commercial Version) describes how to implement HAP in an accessory that you create for non-commercial use and that will not be distributed or sold.</sub>
 
