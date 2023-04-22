@@ -5,12 +5,12 @@
 
 
 
-This device uses a TYWE2S (ESP8684 which is a ESP8266) <b>compatible</b> module which not needs to be replaced with an other module. This module can replace modules such as: CB2S, FL_M99_V1, TYWE2S, TYZS6, TW-02, WR2, WB2, WBR2, WR2E, WB2S, WA2, XT-BL02 . This process will require a soldering tool and moderate soldering skill.
+<sup>This device uses a TYWE2S (ESP8684 which is a ESP8266) <b>compatible</b> module which not needs to be replaced with an other module. This module can replace modules such as: CB2S, FL_M99_V1, TYWE2S, TYZS6, TW-02, WR2, WB2, WBR2, WR2E, WB2S, WA2, XT-BL02 . This process will require a soldering tool and moderate soldering skill.</sup> 
 
 <img  style="float: right;" src="https://github.com/AchimPieters/lsc-smart-plug-v1/blob/main/image/LSC_SMART-POWER-PLUG.png" width="100">
 
 ### SECURITY AND PRIVACY
-Why Should I use this project? One of the most important features of the ESP HomeKit project is security. Because it is open source, you can see that no data from you is being recorded anywhere or anything like that. Of course because you program the code yourself, you can decide what happens, and not another large company that collects your data and sells it on to other companies. You are in control!
+<sup>Why Should I use this project? One of the most important features of the ESP HomeKit project is security. Because it is open source, you can see that no data from you is being recorded anywhere or anything like that. Of course because you program the code yourself, you can decide what happens, and not another large company that collects your data and sells it on to other companies. You are in control!</sup> 
 
 https://www.studiopieters.nl/why-you-should-not-buy-a-smart-plug-from-a-discounter
 
