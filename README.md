@@ -12,7 +12,8 @@
 ### SECURITY AND PRIVACY
 <sup>Why Should I use this project? One of the most important features of the ESP HomeKit project is security. Because it is open source, you can see that no data from you is being recorded anywhere or anything like that. Of course because you program the code yourself, you can decide what happens, and not another large company that collects your data and sells it on to other companies. You are in control!</sup> 
 
-https://www.studiopieters.nl/why-you-should-not-buy-a-smart-plug-from-a-discounter
+[why you should (not) buy a smart plug from a discounter]([https://pages.github.com/](https://www.studiopieters.nl/why-you-should-not-buy-a-smart-plug-from-a-discounter))
+
 
 
 ### WORKS WITH APPLE HOME BADGE
