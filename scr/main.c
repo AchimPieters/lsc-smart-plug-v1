@@ -38,7 +38,7 @@
 #include <button.h>
 #include "software_versioning.h"
 
-#define LED_SERVICE_GPIO         4  // this is the red LED to show boot, indentyfy and pdate status
+#define LED_SERVICE_GPIO         4  // this is the red LED to show boot, indentyfy and update status
 bool service_led_on = false;
 #define RELAY_GPIO              12  // this is the pin to turn on/off the relay
 #define BUTTON_GPIO             14 // this is the pin to control the button
